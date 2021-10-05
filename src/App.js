@@ -6,12 +6,13 @@ import './App.css';
 // import UseEffectUnmount from './Hooks/UseEffectHook/UseEffectUnmount';
 // import IntervalCounter from './Hooks/UseEffectHook/IntervalCounter';
 // import FetchingDataPosts from './Hooks/UseEffectHook/FetchingDataPosts';
-import FetchIndividualPost from './Hooks/UseEffectHook/FetchIndividualPost';
+// import FetchIndividualPost from './Hooks/UseEffectHook/FetchIndividualPost';
+// import UseContext from './Hooks/UseContextHook/UseContext';
 function App() {
   return (
     <div className="app">
-      {/* <h1>Hi There !!</h1> */}
-      <FetchIndividualPost />
+      <h1>Hi There !!</h1>
+      
     </div>
   );
 }
